@@ -54,4 +54,4 @@ As a student I would really appreciate to hear any suggestions and improvements 
 
 ## Links
 
-[RainyDays Website](https://mybergen.netlify.app/)
+[MyBergen Website](https://mybergen.netlify.app/)
